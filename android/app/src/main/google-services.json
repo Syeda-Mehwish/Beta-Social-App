@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "292918681627",
+    "project_id": "beta-social-app",
+    "storage_bucket": "beta-social-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292918681627:android:1391655f344903208318be",
+        "android_client_info": {
+          "package_name": "com.rnfirstproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292918681627-jj6sicgm6cde568k4eg9pp238qq9cnvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdy0712nFeU_8HA6xBIdwtMF4dEbcwb1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292918681627-jj6sicgm6cde568k4eg9pp238qq9cnvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
